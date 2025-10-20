@@ -42,6 +42,6 @@ It's a ready-to-play game client with UI and English text translations already a
 *(Note: repack gets refreshed to the up-to-date content every Friday same week, after a new patch release)*
 
 ## 🔥 Support
-You can support me on Patreon if you find this project any useful: https://www.patreon.com/c/Draftx
+You can support me on Patreon if you find this project any useful: https://www.patreon.com/Draftx
 
 Thanks for attention!
