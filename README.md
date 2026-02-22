@@ -16,23 +16,25 @@ The published files are used by the WLRI English Patch Installer, which automati
 
 ## 🛠️ Manual Download
 While manual installation is not recommended due to the inconvenieces, you can still do so if you encounter problems running the patcher. To manually download the files, click the green Code button, and select Download ZIP. After downloading, extract and place the files into their respective directories as follows:
-1. The contents of the **root** folder should be placed in your **main game directory**.
-2. The contents of the **data** folder should be placed inside your game's **data** directory.
-3. The file **ui.zip** should be extracted directly into the **main game directory**.
+1. The contents of the **root** folder should be placed in your `game directory`.
+2. The contents of the **data** folder should be placed inside your game's `data` directory.
+3. The file **ui.zip** should be extracted directly into the `game directory`.
 
 ## 📒 Files Contents
 Translation includes next translated files for **Wonderland Online: Rhodes Island**:
-- ui.zip - contains user graphics interface (windows, buttons), which is basically re-drawn BMP images.
-- root/Main.exe - main game launcher, used to update game client and start the game by call for "aLogin.exe".
-- root/aLogin.exe - game client executable application used to run the game.
-- root/SERVER.INI - list of available game servers and their channels (branches).
-- root/web0.DAT - used as a server list for the game update through "Main.exe".
-- data/Item.dat - data file for game items, objects and furniture.
-- data/Mark.dat - data file for quests, journal, instances.
-- data/Npc.dat - data file for all the NPCs.
-- data/SceneData.dat - data file for all maps and locations.
-- data/Skill.dat - data file for all available skills.
-- data/Talk.dat - data file for all conversations and dialogs with NPCs.
+```
+- ui.zip              ; contains user graphics interface (windows, buttons), which is basically re-drawn BMP images.
+- root/Main.exe       ; main game launcher, used to update game client and start the game by call for "aLogin.exe".
+- root/aLogin.exe     ; game client executable application used to run the game.
+- root/SERVER.INI     ; list of available game servers and their channels (branches).
+- root/web0.DAT       ; used as a server list for the game update through "Main.exe".
+- data/Item.dat       ; data file for game items, objects and furniture.
+- data/Mark.dat       ; data file for quests, journal, instances.
+- data/Npc.dat        ; data file for all the NPCs.
+- data/SceneData.dat  ; data file for all maps and locations.
+- data/Skill.dat      ; data file for all available skills.
+- data/Talk.dat       ; data file for all conversations and dialogs with NPCs.
+```
 
 ## 📦 WLRI Repack 
 It's a ready-to-play game client with UI and English text translations already applied. Download, install and play. Simple as that.
