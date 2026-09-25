@@ -41,7 +41,7 @@ Translation includes next translated files for **Wonderland Online: Rhodes Islan
 ## 📦 WLRI Repack 
 It's a ready-to-play game client with UI and English text translations already applied. Download, install and play. Simple as that.
 
-[Download WLRI Repack](https://drive.google.com/file/d/18z5H1w5G9GujMJywRHL-uOac4fFyOTSY)
+[Download WLRI Repack](https://github.com/hqddr15/WLRI-Repack/releases)
 
 *(Note: repack gets refreshed to the up-to-date content every Friday same week, after a new patch release)*
 
