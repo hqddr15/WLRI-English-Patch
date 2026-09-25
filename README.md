@@ -1,3 +1,5 @@
+<div width="100%" align="center"><img height="400" alt="WLRI English Patch" src="https://github.com/user-attachments/assets/614d8810-9995-4da1-9ef9-615e57e15838" /></div>
+
 # Wonderland Online: Rhodes Island English Patch
 
 The patch for **Wonderland Online: Rhodes Island** (飄流幻境Online羅德島傳說) game client can replace the interface skin, buttons, skills, dialogs, as well as item and NPC names from Chinese to English.
